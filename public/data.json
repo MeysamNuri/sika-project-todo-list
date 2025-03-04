@@ -1,0 +1,57 @@
+[
+    {
+        "imageUrl": "images/img1.jpg",
+        "targetUrl": null,
+        "postedBy": {
+            "name": "Alice",
+            "avatarUrl": "avatars/alice.jpg"
+        }
+    },
+    {
+        "imageUrl": "images/img2.jpg",
+        "targetUrl": "https://www.excoino.com",
+        "postedBy": null
+    },
+    {
+        "imageUrl": "images/img3.jpg",
+        "targetUrl": "https://www.excoino.com/",
+        "postedBy": {
+            "name": "Charlie",
+            "avatarUrl": "avatars/charlie.jpg"
+        }
+    },
+    {
+        "imageUrl": "images/img4.jpg",
+        "targetUrl": null,
+        "postedBy": null
+    },
+    {
+        "imageUrl": "images/img5.jpg",
+        "targetUrl": null,
+        "postedBy": {
+            "name": "Eric",
+            "avatarUrl": null
+        }
+    },
+    {
+        "imageUrl": "images/img6.jpg",
+        "targetUrl": null,
+        "postedBy": {
+            "name": "Frantz",
+            "avatarUrl": null
+        }
+    },
+    {
+        "imageUrl": "images/img7.jpg",
+        "targetUrl": null,
+        "postedBy": null
+    },
+    {
+        "imageUrl": "images/img8.jpg",
+        "targetUrl": null,
+        "postedBy": {
+            "name": "Hollie",
+            "avatarUrl": null
+        }
+    }
+]
