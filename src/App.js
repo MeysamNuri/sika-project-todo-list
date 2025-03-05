@@ -42,8 +42,9 @@ function App() {
   }
   useEffect(() => {
  
-    localStorage.setItem("newtask", JSON.stringify(taskList))
-
+    if(taskList.length>0){
+      localStorage.setItem("newtask", JSON.stringify(taskList))
+     }
   }, [taskList])
 
 
